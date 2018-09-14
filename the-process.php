@@ -33,7 +33,7 @@ function the_ttt_process($request)
 	$photo_url = "https://api.telegram.org/{your-bot-toke}/sendPhoto";
 
 	// Works in terminal
-	// curl -X POST 'https://api.telegram.org/{your-bot-token}/SendMessage?chat_id=25602980&text="way down jkl8"'
+	// curl -X POST 'https://api.telegram.org/{your-bot-token}/SendMessage?chat_id={chat_id}&text="way down jkl8"'
 	// $reps= json_decode(file_get_contents($uurl));
 
 	$reps = $parameters;

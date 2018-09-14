@@ -13,7 +13,7 @@ https://t.me/textbrowser_bot
 and
 https://t.me/snapshot_bot
 
-the problem is they are pre- wp_remote_post and have no user management or something.
+the problem is they were before I got to know wp_remote_post and have no user management or something.
 thats the reason why they do not match any more our business model and we decided to open-source it.
 So we just publish them on github in the hope they are useful for somebody. They are GPL2, mainly because of WordPress itself and
 the additional libraries it is using.
