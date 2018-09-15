@@ -1,4 +1,4 @@
-# textbrowser Telegram WordPress bot
+# textbrowser / Snapshot Telegram WordPress bot
 
 originally applied with this for the Telegram #botprize but never win or got heeded.
 
@@ -35,9 +35,9 @@ I am not able to write Telegram bots or WordPress plugins for you for free. If y
 I can write something for you for 160 usd / per hour and got a bill from the company I am working for.
 
 ### Requirements
-WordPress
-Telegram Bot token
-(for Snapshots) api keys of snapshot engines
+- WordPress,
+- Telegram Bot token,
+- (for Snapshots) api keys of snapshot engines
 
 there is a function inside called wp_get_googlelink($url) which is not published here.
 this has different reasons. one is , that google said they deprecate it, the second reason:
