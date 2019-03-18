@@ -6,12 +6,11 @@ My suggestion is, to read the whole readme...
 
 The very special thing about this: it is WordPress code ...
 so thats a Telegram bot which can run on every WordPress instance on the internet.
-(and you know WordPress is 31 % in the moment)
+(and you know WordPress is 33 % in the moment)
 
-you can see these 2 bots in action on Telegram
-https://t.me/textbrowser_bot
-and
+you can only use
 https://t.me/snapshot_bot
+in action. The other is deprecated.
 
 the problem is they were before I got to know wp_remote_post and have no user management or something.
 thats the reason why they do not match any more our business model and we decided to open-source it.
